@@ -28,6 +28,8 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
+
+// Solutions 
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ");
 const [bessie, , dolly, babe, little] = farmAnimals.split(" ");
 const[blackAndWhite, , black, pink] = farmAnimals.split(" ");
